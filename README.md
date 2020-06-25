@@ -9,3 +9,5 @@ Unsupervised news analysis on articles using sentiwordnet to score the sentiment
 
 ## Text summarization
 Uses PyTextrank for extracting highest rated sentences.
+
+## GUI
