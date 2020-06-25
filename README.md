@@ -11,3 +11,4 @@ Unsupervised news analysis on articles using sentiwordnet to score the sentiment
 Uses PyTextrank for extracting highest rated sentences.
 
 ## GUI
+![alt text](https://github.com/saty101/news-analysis/blob/master/GUI_image.PNG?raw=true)
